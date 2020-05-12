@@ -3,7 +3,7 @@ package com.techprimers.security.jwtsecurity.controller;
 public class HelloJava {
 
     public void printHello(){
-        System.out.println("hello changes in remote");
+        System.out.println("hello changes in master barnch");
     }
 
     public void print(){
